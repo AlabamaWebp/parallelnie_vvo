@@ -1,0 +1,1 @@
+g++ -O2 -fopenmp -std=c++17 1.cpp -o lab1
